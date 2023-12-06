@@ -1,0 +1,32 @@
+@media (min-width:850px) {
+    .icon_home:hover::after{
+        content: "Go to home"
+    }
+    .icon_about:hover::after{
+        content: "About Me"
+    }
+    .icon_skills:hover::after{
+        content: "skills"
+    }
+    .icon_projects:hover::after{
+        content: "projects"
+    }
+    .icon_education:hover::after{
+        content: "Education"
+    }
+    .icon_achievements:hover::after{
+        content: "achievements"
+    }
+    .icon_cv:hover::after{
+        content: "download my CV"
+    }
+    .icon_lenguage:hover::after{
+        content: "Change Lenguage"
+    }
+    .icon_volume:hover::after{
+        content: "Turn on/off Sound"
+    }
+    .icon_mode:hover::after{
+        content: "Mode Day/Night"
+    }
+}
